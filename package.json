@@ -1,0 +1,25 @@
+{
+  "name": "video-maker",
+  "version": "0.0.1",
+  "description": "Projeto open source para criar vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbrisola/video-maker.git"
+  },
+  "keywords": [
+    "videos",
+    "automatizados",
+    "robo",
+    "fbb"
+  ],
+  "author": "Fernando Brisola Batista",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fbrisola/video-maker/issues"
+  },
+  "homepage": "https://github.com/fbrisola/video-maker#readme"
+}
